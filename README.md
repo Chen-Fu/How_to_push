@@ -1,4 +1,4 @@
-## How_to_push(for mac)
+## How_to_push(on mac)
 1. install git
 2. open terminal
 3. execute command git config --global user.name "your-name"
